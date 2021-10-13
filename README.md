@@ -11,3 +11,9 @@ To use it, just source it in `.tmux.conf` like so:
 ```
 source-file ~/.tmux/tmux-tokyo-night/tokyonight.tmuxtheme
 ```
+
+## Credits
+
+* [Palette for kitty](https://github.com/aerosol/tokyonight-kitty)
+* [Theme for vim](https://github.com/ghifarit53/tokyonight-vim)
+* [Original theme for VS code](https://github.com/enkia/tokyo-night-vscode-theme)
