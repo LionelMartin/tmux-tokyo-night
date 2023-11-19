@@ -1,3 +1,4 @@
+# Migrated to [Codeberg](https://codeberg.org/LionelMartin/tmux-tokyo-night)
 # Tmux Tokyo night theme
 
 This is a really simple theme for tmux with the Tokyo-night palette.
